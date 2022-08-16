@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **M-Orziboyev/M-Orziboyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 50$/hr
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i'm 19years old
--->
+
