@@ -110,6 +110,27 @@
 <p><img margin="10" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-orziboyev&show_icons=true&locale=en&layout=compact" alt="m-orziboyev" /></p>
 <br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-orziboyev&show_icons=true&locale=en" alt="m-orziboyev" /></p>
+## :trophy: M-Orziboyev's Github Stats:
+
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Orziboyev&theme=github_dark) 
+
+
+
+
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+
+<p align="center">
+    
+<a href="https://github.com/M-Orziboyev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=M-Orziboyev">
+</a>
+    <a href="https://github.com/M-Orziboyev?tab=followers">
+        <img src="https://img.shields.io/github/followers/M-Orziboyev?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
+
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-orziboyev&" alt="m-orziboyev" /></p>
 
