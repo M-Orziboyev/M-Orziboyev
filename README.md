@@ -109,7 +109,7 @@
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 
-<p align="center">
+<p align="center" justify="center" margin="50px">
     
 <a href="https://github.com/M-Orziboyev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=M-Orziboyev">
