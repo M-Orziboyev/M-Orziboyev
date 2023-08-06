@@ -107,9 +107,6 @@
 <p><img margin="10" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-orziboyev&show_icons=true&locale=en&layout=compact" alt="m-orziboyev" /></p>
 <br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-orziboyev&show_icons=true&locale=en" alt="m-orziboyev" /></p>
-## :trophy: M-Orziboyev's Github Stats:
-
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Orziboyev&theme=github_dark) 
 
 
 
