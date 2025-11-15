@@ -64,7 +64,9 @@
         <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="nestjs" />
       <br>NestJS
     </td>
-  <td align="center" width="96">
+</tr>
+<tr>
+   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
       <br>NextJS
     </td>
