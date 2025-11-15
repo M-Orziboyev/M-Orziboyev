@@ -60,6 +60,22 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="nestjs" />
+      <br>NestJS
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
+      <br>NextJS
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
+      <br>TypeScript
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
+      <br>Python
+    </td>
 </tr>
 <tr>
         <td align="center" width="96">
